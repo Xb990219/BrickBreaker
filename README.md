@@ -1,1 +1,1 @@
-A mini brick breker game.
+A mini brick breaker game.
