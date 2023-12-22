@@ -1,1 +1,1 @@
-A mini brick breaker game.
+A mini brick breaker game in Java.
